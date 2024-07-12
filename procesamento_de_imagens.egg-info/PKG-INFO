@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: procesamento-de-imagens
+Version: 0.0.1
+Summary: short description for procesamento de imagens
+Home-page: https://github.com/mucarii/procesamento-de-imagens
+Author: Murilo Calore
+Author-email: murilo.l.calore.r@gmail.com
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# image_processing
+
+Description.
+the package image_processing is used to:
+    processing:
+        - Histrogram matching
+        - Structural Similarity
+        - Resize image
+    Utils:
+        - Read image
+        - Save image
+        - Plot image
+        - Plot result
+        - Plot histogram
+
+## instalation
+Use the package manager to install the package image_processing
+
+```bash
+pip install image_processing
+```
+
+## License
+[MIT](https://opensource.org/licenses/MIT)
+
+## Author
+Murilo Calore
